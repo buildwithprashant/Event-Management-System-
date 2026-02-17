@@ -6,7 +6,7 @@ A full-stack frontend application for managing technical events. Built with plai
 
 ```
 event-management/
-├── Codes .html          # Main application (all 22 screens)
+├── index.html          # Main application (all 22 screens)
 ├── css/
 │   └── style.css       # All styles
 ├── js/
